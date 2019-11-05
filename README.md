@@ -20,12 +20,19 @@ Displays text prompting user input, check for input validity. If inputs are vali
 - https://github.com/scratchmex/quadratic-solver/blob/master/quadratic-solver.py
 
 ## Roadmap:
+- [x] Review code respositories
+- [x] Check validity of repositories
+- [x] Report errors with repositories
+- [x] Take notes on current repositories
+- [x] Add ideas to online document
 - [x] Create Github group
 - [x] Create README file
 - [ ] Find related repository for main calculator
 - [ ] find related repositories for calculator functions
 - [ ] Effectively merge code together
 - [ ] Debug code
+- [ ] Verify that code works properly
+- [ ] Submit project
 
 
 
